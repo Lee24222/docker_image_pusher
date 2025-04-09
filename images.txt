@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/custom-error-pages:v1.1.2@sha256:49a5154b3f918aae436ae342ac410a947524f1da8a2f9c249b564a092cf44955
+registry.k8s.io/ingress-nginx/controller:v1.12.1@sha256:d2fbc4ec70d8aa2050dd91a91506e998765e86c96f32cffb56c503c9c34eed5b
