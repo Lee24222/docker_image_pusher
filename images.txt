@@ -1,2 +1,1 @@
-registry.k8s.io/ingress-nginx/controller:v1.12.1
---platform=linux/arm64
+--platform=linux/arm64 registry.k8s.io/ingress-nginx/controller:v1.12.1 
