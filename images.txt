@@ -1,1 +1,1 @@
---platform=linux/arm64 oamdev/kube-webhook-certgen:v2.3 
+--platform=linux/arm64 docker.io/jettech/kube-webhook-certgen:v2.4.2
