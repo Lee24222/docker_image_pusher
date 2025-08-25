@@ -1,2 +1,2 @@
 nacos/nacos-server:v2.4.1
---platform=arm64
+--platform=arm64 xiaoyaliu
