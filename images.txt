@@ -1,1 +1,2 @@
-mysql
+nacos/nacos-server:v2.2.1
+--platform=arm64 xiaoyaliu
