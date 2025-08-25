@@ -1,3 +1,2 @@
-foxiswho/rocketmq:broker
-foxiswho/rocketmq:server
-styletang/rocketmq-console-ng:latest
+nacos:v2.4.1
+--platform=arm64
