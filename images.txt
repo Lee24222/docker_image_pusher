@@ -1,2 +1,2 @@
-nacos:v2.4.1
+nacos-server:v2.4.1
 --platform=arm64
