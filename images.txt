@@ -1,1 +1,1 @@
-minIO
+minio/minio
