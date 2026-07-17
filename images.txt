@@ -1,1 +1,1 @@
-amd64/eclipse-temurin:21-jdk
+ossyupiik/java-jdk:21.0.9
