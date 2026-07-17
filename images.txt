@@ -1,1 +1,2 @@
-nacos-server:v2.4.1
+docker pull amd64/eclipse-temurin:21-jdk
+--platform=linux/amd64 
